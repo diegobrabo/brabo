@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiências de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQG3PEnixOt3Ig/company-logo_100_100/0/1687986446542?e=1701907200&v=beta&t=nxLtlTBJHAWVdLsldnT7o8ZG2oB6vhpjqxZMe-5fOg4"/>](F1RST Digital Services)
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQG3PEnixOt3Ig/company-logo_100_100/0/1687986446542?e=1701907200&v=beta&t=nxLtlTBJHAWVdLsldnT7o8ZG2oB6vhpjqxZMe-5fOg4"/> F1RST Digital Services
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
