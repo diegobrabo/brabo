@@ -32,11 +32,11 @@ Na visão geral abaixo você encontrará minha experiências de trabalho mais re
 [**F1rst**](https://www.f1rst.com.br/first/) • Full-time - desde Outubro de 2020 \
 **Resumo:** Participação em definições de soluções Cloud junto ao time de Arquitetura.
 Elaborações e Implantações de projetos estratégicos do time de Cloud, tais como Melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD.
-Administração do ambiente Cloud AWS, Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
-**Projetos:**
-Move-to-Cloud: Parte do time Cloud responsável pela criação de toda infraestrutura necessária na AWS, que possibilitou a migração dos principais sistemas.
-SSO Configuration: Participei nas etapas de definições, configurações e implantação do modelo utilizando modulos do terraform para gestão dos grupos e policies.
-Plataforma Auto Escalável: Elaboração do modelo utilizando ALB, EC2 Auto Scaling, Eventbridge, CloudWatch e Automações no Systems Managers com steps das configurações do produto, todos os serviços integrados possibilitando assim o scale da plataforma.
+Administração do ambiente Cloud AWS, Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.\
+**Projetos:**\
+Move-to-Cloud: Parte do time Cloud responsável pela criação de toda infraestrutura necessária na AWS, que possibilitou a migração dos principais sistemas.\
+SSO Configuration: Participei nas etapas de definições, configurações e implantação do modelo utilizando modulos do terraform para gestão dos grupos e policies.\
+Plataforma Auto Escalável: Elaboração do modelo utilizando ALB, EC2 Auto Scaling, Eventbridge, CloudWatch e Automações no Systems Managers com steps das configurações do produto, todos os serviços integrados possibilitando assim o scale da plataforma.\
 Evolução da plataforma IaC: Elaboração do modelo visando a migração do processo de IaC, integrando as ferramentas Gitlab, Atlantis e terraform no conceito de GitOps.
 
 
