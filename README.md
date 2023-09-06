@@ -1,34 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Mais de 20 anos de vivência na área de tecnologia de informação em empresas de grande porte do ramo de IT e telecomunicações.
-
-Participação em definições de soluções Cloud junto ao time de Arquitetura.
-
-Elaborações e Implantações de projetos estratégicos do time de Cloud, tais como Melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD.
-
-Integrante do time de Administradores do Cloud AWS, sendo responsável pela provisionamento e configuração dos produtos Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
-
-Conhecimentos administrativos de Kubernetes alem de conhecimento sobre praticas DevOps em soluções PaaS, IaaS e SaaS.
-
-Product Owner de dois produtos, Portal SRE cujo o principal objetivo é fornecer uma visão estatística da Saúde dos Projetos com base em métricas de Infraestrutura e de outra ferramenta de machile learn para prover previsões de crescimento com base em métricas de Infraestrutura, métricas de serviços transacionais e estimativas de crescimento de negócio.
-
-Criação de Projetos, detalhamento de histórias de usuários, acompanhamento da produtividade do time utilizando a Ferramenta Jira.
-
-Experiência em gestão de projetos (PMBook), MS-Project e projetos ágeis com foco em entrega de infraestrutura e produtos.
-
-Liderança de equipes multidisciplinares em projetos de Infraestrutura e Suporte.
-
-Participação em fóruns junto aos times de Arquitetura visando sempre soluções com as melhores tecnologias do mercado, resilientes e escaláveis.
+      Mais de 20 anos de vivência na área de tecnologia de informação em empresas de grande porte do ramo de IT e telecomunicações, participação em definições de soluções Cloud junto ao time de Arquitetura e participação na elaborações e implantações de projetos estratégicos visando soluções resilientes e escaláveis, melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD. Conhecimento de Kubernetes e práticas DevOps em soluções PaaS, IaaS e SaaS. Integrante do time de Administradores do Cloud AWS, responsável pela provisionamento e configuração dos produtos Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
@@ -36,7 +11,7 @@ Participação em fóruns junto aos times de Arquitetura visando sempre soluçõ
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=diegoagustobrabo@gmail.com" /></a>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
