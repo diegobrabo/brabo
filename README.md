@@ -25,7 +25,7 @@ Na visão geral abaixo você encontrará minha experiências de trabalho mais re
 [**F1rst**](https://www.f1rst.com.br/first/) • Full-time - desde Outubro de 2020 \
 **Resumo:** Participação em definições de soluções Cloud junto ao time de Arquitetura.
 Elaborações e Implantações de projetos estratégicos do time de Cloud, tais como Melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD.
-Administração do ambiente Cloud AWS, Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.\
+Administração do ambiente Cloud AWS, Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
 <br/>
 <br/>
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D560BAQErqIZyGDiFjg/company-logo_100_100/0/1686245369107?e=1703721600&v=beta&t=qJKd0E15WIG0znPb-1kAEDyYZZbySsKifkgZuuh1n4A"/>  **AgileThought**
