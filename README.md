@@ -1,16 +1,9 @@
-# Diego Brabo
-## Especialista em Cloud AWS e Projetos de Infraestrutura
+<img src="https://github.com/diegobrabo/brabo/blob/main/pics/Brabo.png?raw=true" min-width="400px" max-width="400px" width="400px" align="left">
 
-<img src="https://github.com/diegobrabo/brabo/blob/main/pics/Brabo.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-      Mais de 20 anos de vivência na área de tecnologia de informação em empresas de grande porte do ramo de IT e telecomunicações, participação em definições de soluções Cloud junto ao time de Arquitetura e participação na elaborações e implantações de projetos estratégicos visando soluções resilientes e escaláveis, melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD. Conhecimento de Kubernetes e práticas DevOps em soluções PaaS, IaaS e SaaS. Integrante do time de Administradores do Cloud AWS, responsável pela provisionamento e configuração dos produtos Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
-</p>
-
-
-<p align="left">
+**M**ais de 20 anos de vivência na área de tecnologia de informação em empresas de grande porte do ramo de IT e telecomunicações, participação em definições de soluções Cloud junto ao time de Arquitetura e participação na elaborações e implantações de projetos estratégicos visando soluções resilientes e escaláveis, melhoria no processo de IaC integrando as ferramentas GIT, Atlantis e Terraform, desenvolvimento de solução autoescalável para um sistema crítico do Banco, Implantação do SSO na AWS integrando com o AzureAD. Conhecimento de Kubernetes e práticas DevOps em soluções PaaS, IaaS e SaaS. Integrante do time de Administradores do Cloud AWS, responsável pela provisionamento e configuração dos produtos Configurações de VPC, Route Table, Transit Gateways, VPC Endpoints, Provisionamento e configuração dos produtos EKS, Fargate, ECR. EC2, RDS, ElastiCache, S3, MSK Kafka.
+<br/>
+<br/>
   💌 <b>Contatos:</b> ⤵️
-</p>
 
 <p align="left">
   <a href="mailto:diegoagustobrabo@gmail.com" alt="Gmail">
